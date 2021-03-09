@@ -22,3 +22,6 @@ LIBRARIES USED:
 IMAGE
 -----
 ![the giants attendance device](https://user-images.githubusercontent.com/30593186/48235864-60b15980-e3c8-11e8-9f96-6825c76ac41b.jpg)
+
+
+Demo video link : https://www.youtube.com/watch?v=f1V2sQwsBqQ
