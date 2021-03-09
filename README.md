@@ -1,4 +1,4 @@
-# fingerprint-time-attendance-device
+## fingerprint-time-attendance-device
 ----------------------------------------
 
 It records the exact time and date the attendance has started.
